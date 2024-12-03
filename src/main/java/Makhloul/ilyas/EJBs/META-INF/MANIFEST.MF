@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: jackson-annotations-2.17.0.jar wildfly-elytron-mechanism-gss
+ api-2.6.0.Final.jar wildfly-elytron-auth-2.6.0.Final.jar wildfly-launch
+ er-25.0.2.Final.jar jboss-remoting-5.0.29.Final.jar commons-codec-1.11.
+ jar wildfly-glow-core-1.0.6.Final.jar wildfly-client-config-1.0.1.Final
+ .jar wildfly-elytron-json-util-2.3.0.Final.jar wildfly-elytron-auth-ser
+ ver-sasl-2.6.0.Final.jar wildfly-elytron-http-sso-2.3.0.Final.jar wildf
+ ly-discovery-client-1.3.0.Final.jar protobuf-java-3.21.9.jar wildfly-el
+ ytron-http-oidc-2.3.0.Final.jar wildfly-elytron-security-manager-2.6.0.
+ Final.jar wildfly-controller-client-25.0.2.Final.jar wildfly-elytron-ht
+ tp-bearer-2.3.0.Final.jar undertow-core-2.3.18.Final.jar wildfly-elytro
+ n-mechanism-oauth2-2.6.0.Final.jar wildfly-elytron-util-2.6.0.Final.jar
+  wildfly-plugin-core-5.0.1.Final.jar wildfly-elytron-sasl-plain-2.6.0.F
+ inal.jar wildfly-elytron-auth-server-2.6.0.Final.jar wildfly-elytron-au
+ th-util-2.6.0.Final.jar wildfly-elytron-http-basic-2.6.0.Final.jar mysq
+ l-connector-j-8.0.33.jar wildfly-elytron-realm-2.6.0.Final.jar slf4j-ap
+ i-2.0.16.jar wildfly-elytron-http-cert-2.6.0.Final.jar wildfly-transact
+ ion-client-3.0.5.Final.jar asm-util-9.5.jar xnio-nio-3.8.16.Final.jar j
+ boss-dmr-1.7.0.Final.jar wildfly-elytron-ssh-util-2.6.0.Final.jar wildf
+ ly-elytron-sasl-2.6.0.Final.jar galleon-common-api-6.0.3.Final.jar wild
+ fly-elytron-realm-ldap-2.3.0.Final.jar wildfly-elytron-http-form-2.3.0.
+ Final.jar wildfly-elytron-sasl-gssapi-2.6.0.Final.jar wildfly-elytron-a
+ uth-server-http-2.6.0.Final.jar wildfly-elytron-2.3.0.Final.jar wildfly
+ -elytron-keystore-2.6.0.Final.jar wildfly-elytron-sasl-auth-util-2.6.0.
+ Final.jar wildfly-elytron-http-spnego-2.3.0.Final.jar jakarta.transacti
+ on-api-2.0.1.jar wildfly-elytron-mechanism-2.6.0.Final.jar commons-logg
+ ing-1.2.jar jandex-3.1.6.jar wildfly-elytron-sasl-external-2.6.0.Final.
+ jar biz.aQute.bnd.transform-6.4.0.jar wildfly-elytron-realm-token-2.3.0
+ .Final.jar snakeyaml-2.0.jar jose4j-0.9.4.jar wildfly-elytron-http-exte
+ rnal-2.3.0.Final.jar channel-core-1.1.0.Final.jar wildfly-http-ejb-clie
+ nt-2.0.7.Final.jar wildfly-elytron-sasl-entity-2.6.0.Final.jar wildfly-
+ elytron-x500-cert-acme-2.3.0.Final.jar wildfly-naming-client-2.0.1.Fina
+ l.jar wildfly-elytron-base-2.6.0.Final.jar asm-analysis-9.5.jar jackson
+ -dataformat-yaml-2.17.0.jar wildfly-elytron-sasl-gs2-2.6.0.Final.jar as
+ m-9.5.jar wildfly-elytron-sasl-otp-2.6.0.Final.jar wildfly-elytron-encr
+ yption-2.6.0.Final.jar wildfly-elytron-mechanism-scram-2.6.0.Final.jar 
+ smallrye-common-constraint-2.4.0.jar mojo-executor-2.3.1.jar wildfly-el
+ ytron-jose-util-2.3.0.Final.jar wildfly-http-transaction-client-2.0.7.F
+ inal.jar jcl-over-slf4j-2.0.16.jar maven-artifact-transfer-0.10.1.jar w
+ ildfly-elytron-sasl-digest-2.6.0.Final.jar jboss-ejb-client-5.0.7.Final
+ .jar wildfly-elytron-credential-source-deprecated-2.3.0.Final.jar wildf
+ ly-common-1.7.0.Final.jar wildfly-elytron-realm-jdbc-2.3.0.Final.jar wi
+ ldfly-elytron-credential-store-2.6.0.Final.jar asm-tree-9.5.jar wildfly
+ -elytron-permission-2.6.0.Final.jar wildfly-elytron-x500-2.6.0.Final.ja
+ r wildfly-elytron-http-2.6.0.Final.jar plexus-utils-3.5.1.jar wildfly-e
+ lytron-credential-source-impl-2.6.0.Final.jar wildfly-elytron-sasl-oaut
+ h2-2.6.0.Final.jar wildfly-elytron-client-2.6.0.Final.jar jboss-marshal
+ ling-2.2.1.Final.jar sshd-common-2.13.2.jar wildfly-elytron-asn1-2.6.0.
+ Final.jar wildfly-http-client-common-2.0.7.Final.jar jackson-databind-2
+ .17.0.jar httpcore-4.4.16.jar jakarta.resource-api-2.1.0.jar wildfly-el
+ ytron-sasl-anonymous-2.6.0.Final.jar wildfly-elytron-x500-principal-2.3
+ .0.Final.jar prospero-metadata-1.2.1.Final.jar wildfly-elytron-security
+ -manager-action-2.6.0.Final.jar wildfly-elytron-sasl-deprecated-2.5.0.F
+ inal.jar jboss-ejb3-ext-api-2.4.0.Final.jar wildfly-elytron-digest-2.6.
+ 0.Final.jar galleon-api-6.0.3.Final.jar wildfly-elytron-auth-server-dep
+ recated-2.6.0.Final.jar itu-1.8.0.jar wildfly-maven-plugin-5.0.1.Final.
+ jar jboss-logging-3.4.3.Final.jar xnio-api-3.8.16.Final.jar wildfly-pro
+ tocol-25.0.2.Final.jar json-schema-validator-1.4.0.jar staxmapper-1.5.0
+ .Final.jar wildfly-elytron-jose-jwk-2.3.0.Final.jar wildfly-elytron-x50
+ 0-cert-util-2.6.0.Final.jar jackson-core-2.17.0.jar wildfly-elytron-mec
+ hanism-digest-2.6.0.Final.jar commons-lang3-3.14.0.jar wildfly-elytron-
+ http-util-2.6.0.Final.jar wildfly-elytron-x500-cert-2.6.0.Final.jar wil
+ dfly-elytron-ssl-2.6.0.Final.jar wildfly-elytron-audit-2.3.0.Final.jar 
+ maven-resolver-1.1.0.Final.jar jboss-threads-2.4.0.Final.jar wildfly-el
+ ytron-sasl-localuser-2.6.0.Final.jar wildfly-plugin-tools-1.1.0.Final.j
+ ar byte-buddy-1.14.9.jar jakarta.annotation-api-2.1.1.jar wildfly-elytr
+ on-credential-2.6.0.Final.jar wildfly-elytron-sasl-scram-2.6.0.Final.ja
+ r wildfly-elytron-http-deprecated-2.3.0.Final.jar galleon-maven-univers
+ e-6.0.3.Final.jar jboss-marshalling-river-2.2.1.Final.jar httpclient-4.
+ 5.14.jar wildfly-elytron-password-impl-2.6.0.Final.jar wildfly-elytron-
+ http-digest-2.6.0.Final.jar metainf-services-1.11.jar galleon-maven-plu
+ gin-6.0.3.Final.jar wildfly-elytron-provider-util-2.6.0.Final.jar wildf
+ ly-elytron-mechanism-http-2.6.0.Final.jar wildfly-elytron-x500-deprecat
+ ed-2.3.0.Final.jar wildfly-http-naming-client-2.0.7.Final.jar
+
